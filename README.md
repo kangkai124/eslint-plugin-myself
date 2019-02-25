@@ -1,4 +1,4 @@
-![GitHub package.json version](https://img.shields.io/github/package-json/v/kangkai124/eslint-plugin-myself.svg?color=orange)![NPM](https://img.shields.io/npm/l/eslint-plugin-myself.svg)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/kangkai124/eslint-plugin-myself.svg?color=orange) ![NPM](https://img.shields.io/npm/l/eslint-plugin-myself.svg)
 
 # eslint-plugin-myself
 
