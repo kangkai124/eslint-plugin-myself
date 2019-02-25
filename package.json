@@ -1,0 +1,23 @@
+{
+  "name": "eslint-plugin-myself",
+  "version": "1.0.0",
+  "description": "lint eslint-plugin itself",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "kk",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kangkai124/eslint-plugin-myself.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kangkai124/eslint-plugin-myself/issues"
+  },
+  "engines": {
+    "node": ">=6.0.1"
+  },
+  "license": "MIT"
+}
